@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">Hi 👋, Priya Singh</h1>
+<h1 align="center">Hi 👋,Myself Priya Singh</h1>
 <h3 align="center">I'm pursuing an MCA and BCA from India, I am an enthusiastic learner in the field of Artificial Intelligence.</h3>
 <br>
 
