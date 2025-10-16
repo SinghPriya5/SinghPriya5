@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋,Myself Priya Singh</h1>
-<h3 align="center">I'm pursuing an MCA and BCA from India, I am an enthusiastic learner in the field of Artificial Intelligence.</h3>
+<h3 align="center">I'm completed an MCA from India, I am an enthusiastic learner in the field of Artificial Intelligence.</h3>
 <br>
 
 <img align = "right" alt = "coding" width = "350" src = "https://github.com/SinghPriya5/SinghPriya5/blob/main/1_B4NL8NsOivEV0UUx8CdYZg.gif">
