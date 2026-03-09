@@ -8,17 +8,29 @@ I enjoy developing AI applications such as chatbots, NLP systems, and deep learn
 
 <br>
 
-<img align="right" alt="coding" width="320" src="https://github.com/SinghPriya5/SinghPriya5/blob/main/1_B4NL8NsOivEV0UUx8CdYZg.gif">
-
 ---
+
+<table>
+<tr>
+<td>
 
 ### 🚀 About Me
 
 - 🎓 MCA Graduate from India  
 - 🤖 Currently working on **Generative AI, LLMs, and RAG Applications**  
 - 🌱 Learning **Advanced Statistics, Machine Learning, and Deep Learning**  
-- 💡 Interested in building **AI applications, chatbots, and intelligent systems**  
+- 💡 Interested in building **AI applications and chatbots**  
 - 📊 Skilled in **Python, Data Analysis, and Machine Learning**
+
+</td>
+
+<td>
+
+<img src="https://github.com/SinghPriya5/SinghPriya5/blob/main/1_B4NL8NsOivEV0UUx8CdYZg.gif" width="300"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
