@@ -96,9 +96,8 @@ I enjoy developing AI applications such as chatbots, NLP systems, and deep learn
 <a href="https://colab.research.google.com/"><img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="40" height="40"/></a>
 </p>
 
-<p>
-<img align="center"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinghPriya5&layout=compact&theme=tokyonight"/>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinghPriya5&layout=compact&theme=tokyonight" />
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SinghPriya5&" alt="SinghPriya5" /></p>
