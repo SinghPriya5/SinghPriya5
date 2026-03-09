@@ -8,7 +8,7 @@ I enjoy developing AI applications such as chatbots, NLP systems, and deep learn
 
 <br>
 
-<img align="right" alt="coding" width="350" src="https://github.com/SinghPriya5/SinghPriya5/blob/main/1_B4NL8NsOivEV0UUx8CdYZg.gif">
+<img align="right" alt="coding" width="320" src="https://github.com/SinghPriya5/SinghPriya5/blob/main/1_B4NL8NsOivEV0UUx8CdYZg.gif">
 
 ---
 
