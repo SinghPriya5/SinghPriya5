@@ -10,6 +10,8 @@ I enjoy developing AI applications such as chatbots, NLP systems, and deep learn
 
 ---
 
+<img align = "right" alt = "coding" width = "350" src = "https://github.com/SinghPriya5/SinghPriya5/blob/main/1_B4NL8NsOivEV0UUx8CdYZg.gif">
+
 ### 🚀 About Me
 
 - 🎓 MCA Graduate from India  
@@ -18,7 +20,6 @@ I enjoy developing AI applications such as chatbots, NLP systems, and deep learn
 - 💡 Interested in building **AI applications and chatbots**  
 - 📊 Skilled in **Python, Data Analysis, and Machine Learning**
 
-<img align = "right" alt = "coding" width = "350" src = "https://github.com/SinghPriya5/SinghPriya5/blob/main/1_B4NL8NsOivEV0UUx8CdYZg.gif">
 
 ---
 
